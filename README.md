@@ -22,10 +22,10 @@ TalkSync is a full-stack real-time chat application built using **React** (Vite)
 > Add your screenshots inside `/screenshots` folder and link here:
 
 ### 🏠 Join Room Page
-![Join Room](./screenshots/join-room.png)
+![Join Room](./Screenshot 2025-07-04 083519.png)
 
 ### 💬 Chat Room in Action
-![Chat Room](./screenshots/chat-room.png)
+![Chat Room](TalkSync-Real-Time-Chat-App/Screenshot 2025-07-04 085750.png)
 
 ---
 
